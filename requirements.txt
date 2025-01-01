@@ -1,0 +1,7 @@
+librosa
+streamlit
+moviepy
+pydub
+matplot
+moviepy==1.0.3
+tensorflow
